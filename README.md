@@ -15,7 +15,6 @@ Documentação de um projeto real onde uma **vulnerabilidade crítica de seguran
 * **Foco:** Risco, GRC (ISO 27001), Hardening de Ativos.
 * **Prova de Proatividade:** Demonstração da ação imediata para reduzir o risco de *downtime* em um ambiente de alto faturamento 24/7.
 * 🔗 **[Acessar o Case Study Detalhado](Case-Study-Risco-Fisico.md)**
-* 🔗 **[Acessar o Case Análise Brute Force](Log-Analysis-Brute-Force.md)**
 
 ### 2. Playbook de Resposta a Incidentes (SOC Nível 1)
 
