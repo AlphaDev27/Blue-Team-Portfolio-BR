@@ -89,3 +89,4 @@ Falha na Aplicação da Regra,"A regra customizada era ignorada, e a genérica (
 ✅ Resultado Final no Dashboard
 A busca no Dashboard (agent.id: 000 AND rule.id: 100002) confirmou a aplicação da regra customizada.
 
+![Captura Wazuh](images/wazuh.png)
